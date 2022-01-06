@@ -1,0 +1,29 @@
+
+}
+
+
+#fondo-con-imagen {
+    height: 70vh;
+    background-image: url("img/define-una-imagen.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+}
+img{
+    max-width: 100%;
+}
+.gallery{
+    background-color: #000000;
+    padding: 50px 0;
+}
+.gallery img{
+    background-color: #000000;
+    padding: 0px;
+    width: 100%;
+    box-shadow: 0 0 15px rgba(0,0,0,0.3);
+    cursor: pointer;
+}
+#gallery-modal .modal-img{
+    width: 100%;
+}
